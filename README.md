@@ -1,4 +1,4 @@
-# testtask
+# Vue app example
 
 ## Build Setup
 
